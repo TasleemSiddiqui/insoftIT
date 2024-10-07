@@ -1,0 +1,88 @@
+/* Slider */
+.swiper {
+  width: 80% !important;
+}
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-size: 20.57px !important;
+  color: #000 !important;
+  font-weight: 700 !important;
+}
+
+@media screen and (max-width: 400px) {
+  .swiper {
+    width: 100% !important;
+  }
+  .swiper-button-prev::after,
+  .swiper-button-next::after {
+    font-size: 13.57px !important;
+  }
+}
+
+.testimonials-bg::before {
+  background: url(/assets/Vector.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  content: '';
+  display: block;
+  height: 100%;
+  left: 50px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.slick-list {
+  height: 270px !important;
+  left: -120px;
+  margin: 0 2rem !important;
+  position: absolute;
+  width: 1160px;
+}
+@media (max-width: 640px) {
+  .slick-list {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 1280px) {
+  .testimonials-bg {
+    overflow: hidden;
+  }
+  .testimonials-bg::before {
+    left: 0 !important;
+  }
+  .slick-list {
+    left: 0;
+    margin: 0 !important;
+    position: none;
+  }
+}
+
+/* Custom Scrollbar for WebKit Browsers (Chrome, Safari, Edge) */
+.scrollbar-custom::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+  height: 8px; /* Height for horizontal scrollbar */
+  border-radius: 10px;
+}
+
+.scrollbar-custom::-webkit-scrollbar-track {
+  background: blue; /* Background of the scrollbar track */
+  border-radius: 10px;
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb {
+  background: blue; /* Scrollbar color */
+  border-radius: 10px;
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb:hover {
+  background: blue; /* Hover color of the scrollbar */
+  border-radius: 10px;
+}
+
+/* For Firefox */
+.scrollbar-custom {
+  scrollbar-width: thin; /* Thin scrollbar */
+  scrollbar-color: blue #f1f1f1; /* Scrollbar thumb and track colors */
+  border-radius: 10px;
+}

@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: var(--font-geist-sans);
+}
+
+.container {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@layer base {
+  :root {
+    --background: 255 255 255; /* White */
+    --foreground: 33.3 40% 12.2%; /* #212B36 (Dark blue-gray) */
+    --card: 243 244 246; /* Light Gray (#F3F4F6) */
+    --card-foreground: 33.3 40% 12.2%; /* #212B36 (Dark blue-gray) */
+    --popover: 243 244 246; /* Light Gray (#F3F4F6) */
+    --popover-foreground: 33.3 40% 12.2%; /* #212B36 (Dark blue-gray) */
+    --primary: 30 69% 23.5%; /* #1E3A8A (Blue) */
+    --primary-foreground: 210 40% 98%; /* White */
+    --secondary: 210 40% 96.1%; /* White */
+    --secondary-foreground: 33.3 40% 12.2%; /* #212B36 (Dark blue-gray) */
+    --muted: 243 244 246; /* Light Gray (#F3F4F6) */
+    --muted-foreground: 215.4 16.3% 46.9%; /* #212B36 (Dark blue-gray) */
+    --accent: 30 69% 23.5%; /* #1E3A8A (Blue) */
+    --accent-foreground: 33.3 40% 12.2%; /* #212B36 (Dark blue-gray) */
+    --destructive: 30 69% 23.5%; /* #1E3A8A (Blue) */
+    --destructive-foreground: 210 40% 98%; /* White */
+    --border: 33.3 40% 12.2%; /* #212B36 (Dark blue-gray) */
+    --input: 243 244 246; /* Light Gray (#F3F4F6) */
+    --ring: 30 69% 23.5%; /* #1E3A8A (Blue) */
+    --radius: 0.5rem;
+  }
+  .dark {
+    --background: 33.3 40% 12.2%; /* #212B36 (Dark blue-gray) */
+    --foreground: 210 40% 98%; /* White */
+    --card: 33.3 40% 12.2%; /* #212B36 (Dark blue-gray) */
+    --card-foreground: 210 40% 98%; /* White */
+    --popover: 33.3 40% 12.2%; /* #212B36 (Dark blue-gray) */
+    --popover-foreground: 210 40% 98%; /* White */
+    --primary: 210 40% 98%; /* White */
+    --primary-foreground: 33.3 40% 12.2%; /* #212B36 (Dark blue-gray) */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-[#212B36]; /* Border is dark blue-gray */
+  }
+  body {
+    @apply bg-white text-[#212B36]; /* Background is white and text is dark blue-gray */
+  }
+  h1 {
+    @apply text-4xl font-semibold text-primary; /* Lighter heading */
+  }
+  h2 {
+    @apply text-3xl font-medium text-foreground; /* Subheading with secondary color */
+  }
+  h3 {
+    @apply text-2xl font-normal text-secondary; /* Smaller heading with muted foreground color */
+  }
+  p {
+    @apply text-base leading-relaxed text-muted-foreground; /* Paragraph text with smaller size */
+  }
+}
