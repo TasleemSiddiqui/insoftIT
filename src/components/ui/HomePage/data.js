@@ -106,31 +106,31 @@ export const slides = [
     items: [
       {
         name: 'IOS',
-        src: '/assets/slider/ios.avif',
+        src: '/slider/ios.avif',
       },
       {
         name: 'Android',
-        src: '/assets/slider/android.png',
+        src: '/slider/android.png',
       },
       {
         name: 'Flutter',
-        src: '/assets/slider/flutter.avif',
+        src: '/slider/flutter.avif',
       },
       {
         name: 'Ionic',
-        src: '/assets/slider/ionic.avif',
+        src: '/slider/ionic.avif',
       },
       {
         name: 'Kotlin',
-        src: '/assets/slider/kotlin.avif',
+        src: '/slider/kotlin.avif',
       },
       {
         name: 'Objective C',
-        src: '/assets/slider/objective-c.avif',
+        src: '/slider/objective-c.avif',
       },
       {
         name: 'Swift',
-        src: '/assets/slider/swift.png',
+        src: '/slider/swift.png',
       },
     ],
   },
@@ -139,31 +139,31 @@ export const slides = [
     items: [
       {
         name: 'HTML',
-        src: '/assets/slider/html.avif',
+        src: '/slider/html.avif',
       },
       {
         name: 'Wpf',
-        src: '/assets/slider/wpf.avif',
+        src: '/slider/wpf.avif',
       },
       {
         name: 'Angular',
-        src: '/assets/slider/angular.avif',
+        src: '/slider/angular.avif',
       },
       {
         name: 'React JS',
-        src: '/assets/slider/react.avif',
+        src: '/slider/react.avif',
       },
       {
         name: 'Next JS',
-        src: '/assets/slider/next.avif',
+        src: '/slider/next.avif',
       },
       {
         name: 'Vue',
-        src: '/assets/slider/vue.avif',
+        src: '/slider/vue.avif',
       },
       {
         name: 'Gatsby',
-        src: '/assets/slider/gatsby.avif',
+        src: '/slider/gatsby.avif',
       },
     ],
   },
@@ -172,31 +172,31 @@ export const slides = [
     items: [
       {
         name: 'Dynamo DB',
-        src: '/assets/slider/dynamo.avif',
+        src: '/slider/dynamo.avif',
       },
       {
         name: 'Couch DB',
-        src: '/assets/slider/couch.avif',
+        src: '/slider/couch.avif',
       },
       {
         name: 'Mongo DB',
-        src: '/assets/slider/mongo.avif',
+        src: '/slider/mongo.avif',
       },
       {
         name: 'Firebase',
-        src: '/assets/slider/firebase.avif',
+        src: '/slider/firebase.avif',
       },
       {
         name: 'Redis',
-        src: '/assets/slider/redis.avif',
+        src: '/slider/redis.avif',
       },
       {
         name: 'My SQL',
-        src: '/assets/slider/mysql.avif',
+        src: '/slider/mysql.avif',
       },
       {
         name: 'MS SQL',
-        src: '/assets/slider/mssql.avif',
+        src: '/slider/mssql.avif',
       },
     ],
   },
@@ -205,31 +205,31 @@ export const slides = [
     items: [
       {
         name: 'Php',
-        src: '/assets/slider/php.avif',
+        src: '/slider/php.avif',
       },
       {
         name: 'Nest JS',
-        src: '/assets/slider/nest.avif',
+        src: '/slider/nest.avif',
       },
       {
         name: 'Node',
-        src: '/assets/slider/node.avif',
+        src: '/slider/node.avif',
       },
       {
         name: 'Express JS',
-        src: '/assets/slider/express.avif',
+        src: '/slider/express.avif',
       },
       {
         name: '.NET',
-        src: '/assets/slider/net.avif',
+        src: '/slider/net.avif',
       },
       {
         name: 'Firebase',
-        src: '/assets/slider/firebase.avif',
+        src: '/slider/firebase.avif',
       },
       {
         name: 'Python',
-        src: '/assets/slider/python.avif',
+        src: '/slider/python.avif',
       },
     ],
   },
@@ -238,31 +238,31 @@ export const slides = [
     items: [
       {
         name: 'Wordpress',
-        src: '/assets/slider/wordpress.avif',
+        src: '/slider/wordpress.avif',
       },
       {
         name: 'Magneto',
-        src: '/assets/slider/magneto.avif',
+        src: '/slider/magneto.avif',
       },
       {
         name: 'WOO',
-        src: '/assets/slider/woo.avif',
+        src: '/slider/woo.avif',
       },
       {
         name: 'Webflow',
-        src: '/assets/slider/webflow.avif',
+        src: '/slider/webflow.avif',
       },
       {
         name: 'Wix',
-        src: '/assets/slider/wix.avif',
+        src: '/slider/wix.avif',
       },
       {
         name: 'Squarespace',
-        src: '/assets/slider/square.avif',
+        src: '/slider/square.avif',
       },
       {
         name: 'Shopify',
-        src: '/assets/slider/shopify.avif',
+        src: '/slider/shopify.avif',
       },
     ],
   },
@@ -271,31 +271,31 @@ export const slides = [
     items: [
       {
         name: 'Aws',
-        src: '/assets/slider/aws.avif',
+        src: '/slider/aws.avif',
       },
       {
         name: 'Jenkins',
-        src: '/assets/slider/jenkins.avif',
+        src: '/slider/jenkins.avif',
       },
       {
         name: 'Gradle',
-        src: '/assets/slider/gradle.avif',
+        src: '/slider/gradle.avif',
       },
       {
         name: 'Appium',
-        src: '/assets/slider/appium.avif',
+        src: '/slider/appium.avif',
       },
       {
         name: 'Azure',
-        src: '/assets/slider/azure.avif',
+        src: '/slider/azure.avif',
       },
       {
         name: 'Selenium',
-        src: '/assets/slider/selenium.avif',
+        src: '/slider/selenium.avif',
       },
       {
         name: 'Digital Ocean',
-        src: '/assets/slider/digital.avif',
+        src: '/slider/digital.avif',
       },
     ],
   },
@@ -304,31 +304,31 @@ export const slides = [
     items: [
       {
         name: 'Illustrator',
-        src: '/assets/slider/illustrator.avif',
+        src: '/slider/illustrator.avif',
       },
       {
         name: 'Photoshop',
-        src: '/assets/slider/photoshop.avif',
+        src: '/slider/photoshop.avif',
       },
       {
         name: 'Premiere Pro',
-        src: '/assets/slider/premiere.avif',
+        src: '/slider/premiere.avif',
       },
       {
         name: 'Audition',
-        src: '/assets/slider/audition.avif',
+        src: '/slider/audition.avif',
       },
       {
         name: 'After Effects',
-        src: '/assets/slider/after.avif',
+        src: '/slider/after.avif',
       },
       {
         name: 'Figma',
-        src: '/assets/slider/figma.avif',
+        src: '/slider/figma.avif',
       },
       {
         name: 'XD',
-        src: '/assets/slider/xd.avif',
+        src: '/slider/xd.avif',
       },
     ],
   },
