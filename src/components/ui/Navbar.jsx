@@ -138,17 +138,32 @@ const Navbar = () => {
                       Home
                     </Link>
                   </li>
-                  <li className="relative">
-                    <Link
-                      className={`flex py-2 text-[16px] font-bold hover:text-primary ${
-                        pathname.startsWith("/service") ? "text-primary" : ""
-                      }`}
-                      href="/service/it-services"
-                      onClick={() => setIsOpen(false)}
-                    >
-                      Services
+                  <li>
+              <DropdownMenu>
+                <DropdownMenuTrigger
+                  className={`${
+                    pathname.startsWith("/service") ? "text-primary" : ""
+                  } hover:text-primary`}
+                >
+                  Services
+                </DropdownMenuTrigger>
+                <DropdownMenuContent>
+                  <DropdownMenuItem asChild>
+                    <Link href="/service/it-services"  onClick={() => setIsOpen(false)} >IT Services</Link>
+                  </DropdownMenuItem>
+                  <DropdownMenuItem asChild>
+                    <Link href="/service/institute-services"  onClick={() => setIsOpen(false)}>
+                      Institute Services
                     </Link>
-                  </li>
+                  </DropdownMenuItem>
+                  <DropdownMenuItem asChild>
+                    <Link href="/service/co-working-space"  onClick={() => setIsOpen(false)}>
+                      Co-Working Space
+                    </Link>
+                  </DropdownMenuItem>
+                </DropdownMenuContent>
+              </DropdownMenu>
+            </li>
                   <li className="relative">
                     <Link
                       className={`flex py-2 text-[16px] font-bold hover:text-primary ${
