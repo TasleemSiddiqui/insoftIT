@@ -106,7 +106,7 @@ export const slides = [
     items: [
       {
         name: 'IOS',
-        src: '/slider/ios.avif',
+        src: '/slider/ios.png',
       },
       {
         name: 'Android',
@@ -114,19 +114,19 @@ export const slides = [
       },
       {
         name: 'Flutter',
-        src: '/slider/flutter.avif',
+        src: '/slider/flutter.png',
       },
       {
         name: 'Ionic',
-        src: '/slider/ionic.avif',
+        src: '/slider/ionic.png',
       },
       {
         name: 'Kotlin',
-        src: '/slider/kotlin.avif',
+        src: '/slider/kotlin.png',
       },
       {
         name: 'Objective C',
-        src: '/slider/objective-c.avif',
+        src: '/slider/objective-c.png',
       },
       {
         name: 'Swift',
@@ -139,31 +139,31 @@ export const slides = [
     items: [
       {
         name: 'HTML',
-        src: '/slider/html.avif',
+        src: '/slider/html.png',
       },
       {
         name: 'Wpf',
-        src: '/slider/wpf.avif',
+        src: '/slider/wpf.png',
       },
       {
         name: 'Angular',
-        src: '/slider/angular.avif',
+        src: '/slider/angular.png',
       },
       {
         name: 'React JS',
-        src: '/slider/react.avif',
+        src: '/slider/react.png',
       },
       {
         name: 'Next JS',
-        src: '/slider/next.avif',
+        src: '/slider/next.png',
       },
       {
         name: 'Vue',
-        src: '/slider/vue.avif',
+        src: '/slider/vue.png',
       },
       {
         name: 'Gatsby',
-        src: '/slider/gatsby.avif',
+        src: '/slider/gatsby.png',
       },
     ],
   },
@@ -172,31 +172,31 @@ export const slides = [
     items: [
       {
         name: 'Dynamo DB',
-        src: '/slider/dynamo.avif',
+        src: '/slider/dynamo.png',
       },
       {
         name: 'Couch DB',
-        src: '/slider/couch.avif',
+        src: '/slider/couch.png',
       },
       {
         name: 'Mongo DB',
-        src: '/slider/mongo.avif',
+        src: '/slider/mongo.png',
       },
       {
         name: 'Firebase',
-        src: '/slider/firebase.avif',
+        src: '/slider/firebase.png',
       },
       {
         name: 'Redis',
-        src: '/slider/redis.avif',
+        src: '/slider/redis.png',
       },
       {
         name: 'My SQL',
-        src: '/slider/mysql.avif',
+        src: '/slider/mysql.png',
       },
       {
         name: 'MS SQL',
-        src: '/slider/mssql.avif',
+        src: '/slider/mssql.png',
       },
     ],
   },
@@ -205,31 +205,31 @@ export const slides = [
     items: [
       {
         name: 'Php',
-        src: '/slider/php.avif',
+        src: '/slider/php.png',
       },
       {
         name: 'Nest JS',
-        src: '/slider/nest.avif',
+        src: '/slider/nest.png',
       },
       {
         name: 'Node',
-        src: '/slider/node.avif',
+        src: '/slider/node.png',
       },
       {
         name: 'Express JS',
-        src: '/slider/express.avif',
+        src: '/slider/express.png',
       },
       {
         name: '.NET',
-        src: '/slider/net.avif',
+        src: '/slider/net.png',
       },
       {
         name: 'Firebase',
-        src: '/slider/firebase.avif',
+        src: '/slider/firebase.png',
       },
       {
         name: 'Python',
-        src: '/slider/python.avif',
+        src: '/slider/python.png',
       },
     ],
   },
@@ -238,31 +238,31 @@ export const slides = [
     items: [
       {
         name: 'Wordpress',
-        src: '/slider/wordpress.avif',
+        src: '/slider/wordpress.png',
       },
       {
         name: 'Magneto',
-        src: '/slider/magneto.avif',
+        src: '/slider/magneto.png',
       },
       {
         name: 'WOO',
-        src: '/slider/woo.avif',
+        src: '/slider/woo.png',
       },
       {
         name: 'Webflow',
-        src: '/slider/webflow.avif',
+        src: '/slider/webflow.png',
       },
       {
         name: 'Wix',
-        src: '/slider/wix.avif',
+        src: '/slider/wix.png',
       },
       {
         name: 'Squarespace',
-        src: '/slider/square.avif',
+        src: '/slider/square.png',
       },
       {
         name: 'Shopify',
-        src: '/slider/shopify.avif',
+        src: '/slider/shopify.png',
       },
     ],
   },
@@ -271,31 +271,31 @@ export const slides = [
     items: [
       {
         name: 'Aws',
-        src: '/slider/aws.avif',
+        src: '/slider/aws.png',
       },
       {
         name: 'Jenkins',
-        src: '/slider/jenkins.avif',
+        src: '/slider/jenkins.png',
       },
       {
         name: 'Gradle',
-        src: '/slider/gradle.avif',
+        src: '/slider/gradle.png',
       },
       {
         name: 'Appium',
-        src: '/slider/appium.avif',
+        src: '/slider/appium.png',
       },
       {
         name: 'Azure',
-        src: '/slider/azure.avif',
+        src: '/slider/azure.png',
       },
       {
         name: 'Selenium',
-        src: '/slider/selenium.avif',
+        src: '/slider/selenium.png',
       },
       {
         name: 'Digital Ocean',
-        src: '/slider/digital.avif',
+        src: '/slider/digital.png',
       },
     ],
   },
@@ -304,31 +304,31 @@ export const slides = [
     items: [
       {
         name: 'Illustrator',
-        src: '/slider/illustrator.avif',
+        src: '/slider/illustrator.png',
       },
       {
         name: 'Photoshop',
-        src: '/slider/photoshop.avif',
+        src: '/slider/photoshop.png',
       },
       {
         name: 'Premiere Pro',
-        src: '/slider/premiere.avif',
+        src: '/slider/premiere.png',
       },
       {
         name: 'Audition',
-        src: '/slider/audition.avif',
+        src: '/slider/audition.png',
       },
       {
         name: 'After Effects',
-        src: '/slider/after.avif',
+        src: '/slider/after.png',
       },
       {
         name: 'Figma',
-        src: '/slider/figma.avif',
+        src: '/slider/figma.png',
       },
       {
         name: 'XD',
-        src: '/slider/xd.avif',
+        src: '/slider/xd.png',
       },
     ],
   },

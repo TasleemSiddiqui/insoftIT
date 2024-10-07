@@ -52,7 +52,7 @@ const Navbar = () => {
     >
       {/* Social media bar */}
       <div className="items-start justify-end w-full bg-primary hidden lg:flex px-8">
-        <div className="flex items-center justify-start gap-5 py-2 text-xl">
+        <div className="flex items-center justify-start gap-5 py-2 text-xl text  text-accent-foreground">
           <Link href="/">
             <FaFacebookF />
           </Link>
