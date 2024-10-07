@@ -44,7 +44,7 @@ const SliderSection = () => {
                           <div className="flex flex-col items-center">
                             <div className="w-[45px] sm:w-[80px] md:w-[90px] lg:w-[100px]">
                               <Image
-                                alt="icon"
+                                alt={item.name}
                                 loading="lazy"
                                 width={114}
                                 height={114}
@@ -64,7 +64,7 @@ const SliderSection = () => {
                           <div className="flex flex-col items-center">
                             <div className="w-[45px] sm:w-[80px] md:w-[90px] lg:w-[100px]">
                               <Image
-                                alt="icon"
+                                alt={item.name}
                                 loading="lazy"
                                 width={114}
                                 height={114}
