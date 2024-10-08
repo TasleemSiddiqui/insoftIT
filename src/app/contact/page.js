@@ -1,3 +1,4 @@
+'use client'
 import ContactForm from '@/components/ui/ContactPage/ContactForm';
 import Portfolio from '@/components/shared/portfolio';
 import Wrapper from '@/components/shared/Wrapper';
