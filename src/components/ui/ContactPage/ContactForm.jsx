@@ -8,7 +8,7 @@ import { Button } from "@/components/ui/Elements/button";
 import { Input } from "@/components/ui/Elements/input";
 import { Textarea } from "@/components/ui/Elements/textarea";
 import { useState } from "react";
-import { useRouter } from "next/navigation";
+
 import {
   Form,
   FormControl,
@@ -62,7 +62,7 @@ const fetcher = (url, data) =>
   }).then((res) => res.json());
 
 const ContactForm = () => {
-  const router = useRouter();
+
   const [loading, setLoading] = useState(false);
   const form = useForm({
     resolver: zodResolver(FormSchema),
@@ -80,7 +80,7 @@ const ContactForm = () => {
         toast({
           title: "Submission successful!",
         });
-      
+       
         setLoading(false);
       
       }
@@ -123,7 +123,7 @@ const ContactForm = () => {
                   <Input placeholder="Enter your Last Name" {...field} />
                 </FormControl>
                 <FormMessage />
-              </FormItem>
+              </FormItem> 
             )}
           />
           {/* Phone Number */}

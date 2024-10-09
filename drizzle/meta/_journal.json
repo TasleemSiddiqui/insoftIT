@@ -8,6 +8,13 @@
       "when": 1728394324529,
       "tag": "0000_regular_freak",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1728480867247,
+      "tag": "0001_stiff_rick_jones",
+      "breakpoints": true
     }
   ]
 }
