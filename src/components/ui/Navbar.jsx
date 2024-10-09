@@ -3,13 +3,13 @@ import React, { useState, useEffect } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Button } from "@/components/ui/Elements/button"; // Fixed import path
+import { Button } from "@/components/ui/Elements/button"; 
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuTrigger,
-} from "@/components/ui/Elements/dropdown-menu"; // Fixed import path
+} from "@/components/ui/Elements/dropdown-menu";
 import {
   FaFacebook,
   FaFacebookF,
@@ -23,10 +23,10 @@ import {
   SheetHeader,
   SheetTitle,
   SheetTrigger,
-} from "@/components/ui/Elements/sheet"; // Fixed import path
+} from "@/components/ui/Elements/sheet";
 
 const Navbar = () => {
-  const [isOpen, setIsOpen] = useState(false); // State to toggle menu
+  const [isOpen, setIsOpen] = useState(false); 
   const pathname = usePathname();
   const [isFixed, setIsFixed] = useState(false);
 
@@ -129,7 +129,7 @@ const Navbar = () => {
                 <ul>
                   <li className="relative">
                     <Link
-                      className={`flex py-2 text-[16px] font-bold hover:text-primary ${
+                      className={`flex py-2 text-[16px] font-bold hover:text-gray-800 ${
                         pathname === "/" ? "text-primary" : ""
                       }`}
                       href="/"
@@ -143,7 +143,7 @@ const Navbar = () => {
                 <DropdownMenuTrigger
                   className={`${
                     pathname.startsWith("/service") ? "text-primary" : ""
-                  } hover:text-primary`}
+                  } hover:text-gray-800`}
                 >
                   Services
                 </DropdownMenuTrigger>
@@ -166,7 +166,7 @@ const Navbar = () => {
             </li>
                   <li className="relative">
                     <Link
-                      className={`flex py-2 text-[16px] font-bold hover:text-primary ${
+                      className={`flex py-2 text-[16px] font-bold hover:text-gray-800 ${
                         pathname === "/about" ? "text-primary" : ""
                       }`}
                       href="/about"
@@ -177,7 +177,7 @@ const Navbar = () => {
                   </li>
                   <li className="relative">
                     <Link
-                      className={`flex py-2 text-[16px] font-bold hover:text-primary ${
+                      className={`flex py-2 text-[16px] font-bold hover:text-gray-800${
                         pathname === "/contact" ? "text-primary" : ""
                       }`}
                       href="/contact"
@@ -241,12 +241,12 @@ const Navbar = () => {
 
         {/* Links for large screens */}
         <nav className="hidden lg:flex flex-1 justify-center">
-          <ul className="text-muted-foreground flex items-center gap-12 text-[#637381] font-semibold">
+          <ul className="text-muted-foreground flex items-center gap-12  font-semibold">
             <li>
               <Link
                 className={`${
                   pathname === "/" ? "text-primary" : ""
-                } hover:text-primary`}
+                } hover:text-gray-800`}
                 href="/"
               >
                 Home
@@ -257,7 +257,7 @@ const Navbar = () => {
                 <DropdownMenuTrigger
                   className={`${
                     pathname.startsWith("/service") ? "text-primary" : ""
-                  } hover:text-primary`}
+                  } hover:text-gray-800`}
                 >
                   Services
                 </DropdownMenuTrigger>
@@ -282,7 +282,7 @@ const Navbar = () => {
               <Link
                 className={`${
                   pathname === "/about" ? "text-primary" : ""
-                } hover:text-primary`}
+                } hover:text-gray-800`}
                 href="/about"
               >
                 About Us
@@ -293,7 +293,7 @@ const Navbar = () => {
               <Link
                 className={`${
                   pathname === "/contact" ? "text-primary" : ""
-                } hover:text-primary`}
+                } hover:text-gray-800`}
                 href="/contact"
               >
                 Contact
