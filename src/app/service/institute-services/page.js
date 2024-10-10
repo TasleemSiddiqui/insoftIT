@@ -1,5 +1,6 @@
 import React from 'react';
 import Wrapper from '@/components/shared/Wrapper';
+import InstituteForm from '@/components/ui/institutePage/intituteForm'
 const InstituteServices = () => {
   return (
     <Wrapper>
@@ -15,7 +16,9 @@ const InstituteServices = () => {
               innovation and users experiencing seamless, convenient digital
               interactions.
             </p>
+            <InstituteForm/>
           </div>
+          
         </div>
       </section>
     </Wrapper>

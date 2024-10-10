@@ -15,6 +15,13 @@
       "when": 1728480867247,
       "tag": "0001_stiff_rick_jones",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1728563934462,
+      "tag": "0002_needy_yellow_claw",
+      "breakpoints": true
     }
   ]
 }
