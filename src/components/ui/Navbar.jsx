@@ -53,18 +53,18 @@ const Navbar = () => {
       {/* Social media bar */}
       <div className="items-start justify-end w-full bg-primary hidden lg:flex px-8">
         <div className="flex items-center justify-start gap-5 py-2 text-xl text  text-accent-foreground">
-          <Link href="/">
+          <Link href="https://www.facebook.com/inosftit?mibextid=rS40aB7S9Ucbxw6v " target="_blank">
             <FaFacebookF />
           </Link>
-          <Link href="/">
+          <Link href="https://www.instagram.com/insoft.it?igsh=ZjJjMWQ2OWNvOW1y " target="_blank">
             <FaInstagram />
           </Link>
-          <Link href="/">
+          <Link href="https://www.linkedin.com/company/insoft-it/" target="_blank">
             <FaLinkedin />
           </Link>
-          <Link href="/">
+          {/* <Link href="/">
             <FaTwitter />
-          </Link>
+          </Link> */}
         </div>
       </div>
 
@@ -195,7 +195,17 @@ const Navbar = () => {
                       Follow us on
                     </p>
                     <div className="flex items-center justify-start gap-2 py-5">
-                      <Link href="/">
+                      <Link href="https://www.facebook.com/inosftit?mibextid=rS40aB7S9Ucbxw6v " target="_blank" className="bg-blue-100 p-3 rounded-xl">
+                        {/* <Image
+                          alt="social-icon"
+                          loading="lazy"
+                          width={40}
+                          height={40}
+                          src="/assets/iconsfacbook.png"
+                        /> */}
+                        <FaFacebook size={20}/>
+                      </Link>
+                      <Link href="https://www.instagram.com/insoft.it?igsh=ZjJjMWQ2OWNvOW1y " target="_blank">
                         <Image
                           alt="social-icon"
                           loading="lazy"
@@ -204,16 +214,7 @@ const Navbar = () => {
                           src="/assets/instagram.png"
                         />
                       </Link>
-                      <Link href="/">
-                        <Image
-                          alt="social-icon"
-                          loading="lazy"
-                          width={40}
-                          height={40}
-                          src="/assets/instagram.png"
-                        />
-                      </Link>
-                      <Link href="/">
+                      <Link href="https://www.linkedin.com/company/insoft-it/" target="_blank">
                         <Image
                           alt="social-icon"
                           loading="lazy"

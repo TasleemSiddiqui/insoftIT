@@ -15,7 +15,7 @@ const UltimateServicesSection = () => {
         </h2>
         <p className="max-w-[270px] sm:max-w-full mx-auto lg:my-3 text-[12px] sm:text-[14px] font-medium md:text-[14px] lg:text-[18px]">
           Discover the power of our comprehensive suite of digital services at
-          Cubicus.io
+          Insoft IT.io
         </p>
       </div>
       <div className="flex w-full flex-col-reverse items-center justify-center lg:flex-row">

@@ -69,7 +69,8 @@ const Footer = () => {
             <div className=" p-1 sm:p-5 rounded-[20px] bg-[#F2F2F2]/10">
               <Link
                 className="flex h-full w-full items-center justify-center "
-                href="https://www.instagram.com/cubicusio/"
+                href="https://www.instagram.com/insoft.it?igsh=ZjJjMWQ2OWNvOW1y "
+                target="_blank"
               >
                 <Image
                   alt="Instagram"
@@ -82,7 +83,8 @@ const Footer = () => {
             <div className=" p-1 sm:p-5 rounded-[20px] bg-[#F2F2F2]/10">
               <Link
                 className="flex h-full w-full items-center justify-center "
-                href="https://www.instagram.com/cubicusio/"
+                href="https://www.facebook.com/inosftit?mibextid=rS40aB7S9Ucbxw6v "
+                target="_blank"
               >
                 <Image
                   alt="Facebook"
@@ -95,7 +97,8 @@ const Footer = () => {
             <div className=" p-1 sm:p-5 rounded-[20px] bg-[#F2F2F2]/10">
               <Link
                 className="flex h-full w-full items-center justify-center "
-                href="https://www.instagram.com/cubicusio/"
+                href="https://www.linkedin.com/company/insoft-it/"
+                target="_blank"
               >
                 <Image
                   alt="Linkedin"
@@ -105,7 +108,7 @@ const Footer = () => {
                 />
               </Link>
             </div>
-            <div className=" p-1 sm:p-5 rounded-[20px] bg-[#F2F2F2]/10">
+            {/* <div className=" p-1 sm:p-5 rounded-[20px] bg-[#F2F2F2]/10">
               <Link
                 className="flex h-full w-full items-center justify-center "
                 href="https://www.instagram.com/cubicusio/"
@@ -117,7 +120,7 @@ const Footer = () => {
                   src="/assets/footer/twitter.svg"
                 />
               </Link>
-            </div>
+            </div> */}
           </div>
           <div className="flex flex-wrap items-center justify-between gap-10 sm:gap-20">
             <p className="text-[14px] sm:text-lg font-semibold  text-gray-400/80">Copyright 2024</p>

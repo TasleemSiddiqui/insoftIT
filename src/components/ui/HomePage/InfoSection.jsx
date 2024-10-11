@@ -16,7 +16,7 @@ const InfoSection = () => {
             expert coding. Whether it's Website Development, Graphic Designing,
             or Blockchain Development, we're here to transform your ideas into
             reality. Experience the power of design and code in solving your
-            business needs with Cubicus.io!
+            business needs with Insoft IT!
           </p>
         </div>
       </div>

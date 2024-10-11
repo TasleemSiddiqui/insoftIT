@@ -14,7 +14,7 @@ const About = () => {
           </h1>
           <p className="font-Inter my-2 sm:my-1 text-center text-[12px] md:text-[14px] font-medium sm:leading-[160%] leading-4 tracking-[0.36px] text-[#000000]/80 lg:text-[18px]">
            {
-            ` Welcome to Cubicus where innovation meets technology to shape the
+            ` Welcome to Insoft IT where innovation meets technology to shape the
             future!`
            }
           </p>
@@ -22,7 +22,7 @@ const About = () => {
             <div className="w-full">
               <p className="text-[10px] md:text-[14px] lg:text-[16px] sm:max-w-full max-w-[250px] mx-auto">
                 {
-                  `Cubicus.io is more than just another software company; we are a
+                  `Insoft IT is more than just another software company; we are a
                 dynamic and forward-thinking corporation founded in 2020 with a
                 defined objective.`
                 }
@@ -34,13 +34,13 @@ const About = () => {
           <div className="container flex sm:flex-row flex-col items-center justify-between gap-1 md:gap-4 ">
             <div className="sm:w-[40%] w-full">
               <h2 className="text-[14px] sm:text-[24px] md:leading-7 md:text-left lg:leading-[52px] font-[600] lg:pl-5 md:text-[28px] text-center lg:text-[40px]">
-                <span className="text-primary">Cubicus</span> is more than just
+                <span className="text-primary">Insoft IT</span> is more than just
                 a name!
               </h2>
             </div>
             <div className="sm:w-[60%] sm:pl-10 sm:border-l-4">
               <p className="text-[10px] tracking-[2%] font-medium lg:leading-[28.8px] md:text-[14px] text-center lg:text-left lg:text-[18px]">
-               {` The term "Cubicus" represents our dedication to all aspects of
+               {` The term "Insoft IT" represents our dedication to all aspects of
                 technology, much like a cubical building surrounded by its
                 corners. It is more than simply a software company; it is a
                 theory. It is about developing a brand that brings together many
@@ -59,7 +59,7 @@ const About = () => {
             <p className="font-[500] px-3 lg:leading-[28px] tracking-[2%] max-w-[910px] text-[12px] md:text-[14px] lg:text-[18px] text-center">
               {
                 `Our vision is to build a solid company with highly skilled and
-              devoted people. At Cubicus.io, we believe in using technology to
+              devoted people. At Insoft IT, we believe in using technology to
               build solutions with long-term effects.`
               }
             </p>
@@ -70,7 +70,7 @@ const About = () => {
             </h2>
             <p className="font-[500] px-3 lg:leading-[28px] tracking-[2%] max-w-[910px] text-[12px] md:text-[14px] lg:text-[18px] text-center">
               Our objective is to create a brand that moves beyond traditional
-              limits. Cubicus.io is more than simply a website its a platform
+              limits. Insoft IT is more than simply a website its a platform
               for creativity and technology. We want to create an environment in
               which ideas converge ideas thrive and solutions&nbsp;develop.
             </p>
@@ -92,7 +92,7 @@ const About = () => {
               <p className="max-w-[638px] text-[10px] sm:py-3 font-[500] tracking-[2%] text-center md:text-left lg:leading-[28.8px] md:text-[14px] lg:text-[18px]">
                 Our team of experts is dedicated to delivering high-quality,
                 innovative solutions tailored to meet the unique needs of our
-                clients.At Cubicus.io, we specialize in blockchain solutions,
+                clients.At Insoft IT, we specialize in blockchain solutions,
                 software development, and design services.
               </p>
             </div>
@@ -138,7 +138,7 @@ const About = () => {
               Join a global team of change-makers.
             </h2>
             <p className="lg:mt-5 my-2 text-[10px] text-center md:text-left sm:text-[14px] font-medium lg:leading-[27px] lg:text-[18px] max-w-[490px]">
-              At Cubicus.io, we are driven by innovation, integrity, and a
+              At Insoft IT, we are driven by innovation, integrity, and a
               relentless pursuit of excellence. Partner with us to embark on a
               transformative journey towards digital success. Let's shape the
               future together.

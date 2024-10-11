@@ -73,7 +73,7 @@ export const processSteps = [
   {
     title: 'Development',
     description:
-      'At cubicus.io, we use modern technologies to bring your project to life while implementing top-notch solutions that deliver long-lasting outcomes.',
+      'At insoft IT, we use modern technologies to bring your project to life while implementing top-notch solutions that deliver long-lasting outcomes.',
     bgColor: '#FFEADA',
     imgSrc: '/assets/development.png',
   },
@@ -365,37 +365,37 @@ export const testimonials = [
   {
     name: 'Rachel Mitchell',
     role: 'Impactful Data Processing',
-    text: "Cubicus.io's proficiency in data processing is impressive. Their data scientist-friendly approach and integration of the latest technologies have significantly improved our capabilities. Cubicus.io's proficiency in data processing is impressive. Their data scientist-friendly approach and integration of the latest technologies have significantly improved our capabilities.",
+    text: "Insoft IT's proficiency in data processing is impressive. Their data scientist-friendly approach and integration of the latest technologies have significantly improved our capabilities. Insoft IT's proficiency in data processing is impressive. Their data scientist-friendly approach and integration of the latest technologies have significantly improved our capabilities.",
   },
   {
     name: 'Emily Chen',
     role: 'Reliable QA Testing',
-    text: "Cubicus.io's commitment to quality is commendable. Their meticulous testing processes ensure the delivery of bug-free and reliable software. Highly recommended.",
+    text: "Insoft IT's commitment to quality is commendable. Their meticulous testing processes ensure the delivery of bug-free and reliable software. Highly recommended.",
   },
   {
     name: 'Jonathan Turner',
     role: 'Revolutionizing Digital Solutions',
-    text: "Cubicus.io's expertise in custom web app development and progressive web app development has been instrumental. Their UI and UX design services have set a new standard.",
+    text: "Insoft IT's expertise in custom web app development and progressive web app development has been instrumental. Their UI and UX design services have set a new standard.",
   },
   {
     name: 'Amanda Carter',
     role: 'Innovative Ecommerce Strategies',
-    text: "As a UX/UI Designer, I'm impressed with Cubicus.io's ability to create modern and user-friendly web applications. Their web design for family lawyers is exceptional.",
+    text: "As a UX/UI Designer, I'm impressed with Insoft IT's ability to create modern and user-friendly web applications. Their web design for family lawyers is exceptional.",
   },
   {
     name: 'Daniel Walker',
     role: 'Strategic Franchise Web Design',
-    text: "Cubicus.io's franchise web design, from Portland to New Jersey, has been crucial for our brand expansion. Their packages cater to diverse needs.",
+    text: "Insoft IT's franchise web design, from Portland to New Jersey, has been crucial for our brand expansion. Their packages cater to diverse needs.",
   },
   {
     name: 'Olivia Harper',
     role: 'Seamless Hosting Solutions',
-    text: "Cubicus.io's hosting services, from cheap hosting web window to ecommerce web site hosting, have proven cost-effective. Their attention to quality extends to reliable software.",
+    text: "Insoft IT's hosting services, from cheap hosting web window to ecommerce web site hosting, have proven cost-effective. Their attention to quality extends to reliable software.",
   },
   {
     name: 'Alex Thompson',
     role: 'Creative Logo Design Solutions',
-    text: "Cubicus.io's logo design solutions have helped elevate our brand image across multiple platforms.",
+    text: "Insoft IT's logo design solutions have helped elevate our brand image across multiple platforms.",
   },
 ];
 

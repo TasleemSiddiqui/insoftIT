@@ -13,7 +13,7 @@ const ProcessSection = () => {
             Strategic Digital Solutions, Seamless User Experiences
           </h4>
           <p className="my-2 max-w-[270px] mx-auto sm:my-2.5 lg:my-5 sm:max-w-[1110px] text-center text-[12px] sm:text-[14px] font-medium text-black/50 md:text-[16px] lg:text-[18px]">
-            Cubicus believes in a collaborative team approach for web and
+            Insoft IT believes in a collaborative team approach for web and
             graphic designing, social media marketing, digital marketing, web
             and app development, and blockchain development. Our iterative
             design and development process is designed to ensure clarity, trust,

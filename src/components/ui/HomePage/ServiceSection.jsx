@@ -12,7 +12,7 @@ const ServiceSection = () => {
           blockchain services
         </h1>
         <p className="font-medium w-full md:max-w-[795px] max-w-[250px] mx-auto text-[12px] sm:text-[14px] md:text-[14px] lg:text-[18px]">
-          Cubicus envisions a world where technology becomes a decisive tool for
+          Insoft IT envisions a world where technology becomes a decisive tool for
           every individual, leading to businesses thriving through innovation
           and users experiencing seamless, convenient digital interactions.
         </p>
