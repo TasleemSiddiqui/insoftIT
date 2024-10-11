@@ -106,31 +106,31 @@ export const slides = [
     items: [
       {
         name: 'IOS',
-        src: '/slider/ios.png',
+        src: '/slider/IMGios.png',
       },
       {
         name: 'Android',
-        src: '/slider/android.png',
+        src: '/slider/IMGandroid.png',
       },
       {
         name: 'Flutter',
-        src: '/slider/flutter.png',
+        src: '/slider/IMGflutter.png',
       },
       {
         name: 'Ionic',
-        src: '/slider/ionic.png',
+        src: '/slider/IMGionic.png',
       },
       {
         name: 'Kotlin',
-        src: '/slider/kotlin.png',
+        src: '/slider/IMGkotlin.png',
       },
       {
         name: 'Objective C',
-        src: '/slider/objective-c.png',
+        src: '/slider/IMGobjective-c.png',
       },
       {
         name: 'Swift',
-        src: '/slider/swift.png',
+        src: '/slider/IMGswift.png',
       },
     ],
   },
@@ -139,31 +139,31 @@ export const slides = [
     items: [
       {
         name: 'HTML',
-        src: '/slider/html.png',
+        src: '/slider/IMGhtml.png',
       },
       {
         name: 'Wpf',
-        src: '/slider/wpf.png',
+        src: '/slider/IMGwpf.png',
       },
       {
         name: 'Angular',
-        src: '/slider/angular.png',
+        src: '/slider/IMGangular.png',
       },
       {
         name: 'React JS',
-        src: '/slider/react.png',
+        src: '/slider/IMGreact.png',
       },
       {
         name: 'Next JS',
-        src: '/slider/next.png',
+        src: '/slider/IMGnext.png',
       },
       {
         name: 'Vue',
-        src: '/slider/vue.png',
+        src: '/slider/IMGvue.png',
       },
       {
         name: 'Gatsby',
-        src: '/slider/gatsby.png',
+        src: '/slider/IMGgatsby.png',
       },
     ],
   },
@@ -172,31 +172,31 @@ export const slides = [
     items: [
       {
         name: 'Dynamo DB',
-        src: '/slider/dynamo.png',
+        src: '/slider/IMGdynamo.png',
       },
       {
         name: 'Couch DB',
-        src: '/slider/couch.png',
+        src: '/slider/IMGcoachdb.png',
       },
       {
         name: 'Mongo DB',
-        src: '/slider/mongo.png',
+        src: '/slider/IMGmongo.png',
       },
       {
         name: 'Firebase',
-        src: '/slider/firebase.png',
+        src: '/slider/IMGfirebase.png',
       },
       {
         name: 'Redis',
-        src: '/slider/redis.png',
+        src: '/slider/IMGredis.png',
       },
       {
         name: 'My SQL',
-        src: '/slider/mysql.png',
+        src: '/slider/IMGmysql.png',
       },
       {
         name: 'MS SQL',
-        src: '/slider/mssql.png',
+        src: '/slider/IMGmssql.png',
       },
     ],
   },
@@ -205,31 +205,31 @@ export const slides = [
     items: [
       {
         name: 'Php',
-        src: '/slider/php.png',
+        src: '/slider/IMGphp.png',
       },
       {
         name: 'Nest JS',
-        src: '/slider/nest.png',
+        src: '/slider/IMGnest.png',
       },
       {
         name: 'Node',
-        src: '/slider/node.png',
+        src: '/slider/IMGnode.png',
       },
       {
         name: 'Express JS',
-        src: '/slider/express.png',
+        src: '/slider/IMGexpressjs.png',
       },
       {
         name: '.NET',
-        src: '/slider/net.png',
+        src: '/slider/IMGnet.png',
       },
       {
         name: 'Firebase',
-        src: '/slider/firebase.png',
+        src: '/slider/IMGfirebase.png',
       },
       {
         name: 'Python',
-        src: '/slider/python.png',
+        src: '/slider/IMGpython.png',
       },
     ],
   },
@@ -238,31 +238,31 @@ export const slides = [
     items: [
       {
         name: 'Wordpress',
-        src: '/slider/wordpress.png',
+        src: '/slider/IMGwordpress.png',
       },
       {
         name: 'Magneto',
-        src: '/slider/magneto.png',
+        src: '/slider/IMGmagneto.png',
       },
       {
         name: 'WOO',
-        src: '/slider/woo.png',
+        src: '/slider/IMGwoo.png',
       },
       {
         name: 'Webflow',
-        src: '/slider/webflow.png',
+        src: '/slider/IMGwebflow.png',
       },
       {
         name: 'Wix',
-        src: '/slider/wix.png',
+        src: '/slider/IMGwix.png',
       },
       {
         name: 'Squarespace',
-        src: '/slider/square.png',
+        src: '/slider/IMGsquare.png',
       },
       {
         name: 'Shopify',
-        src: '/slider/shopify.png',
+        src: '/slider/IMGshopify.png',
       },
     ],
   },
@@ -271,31 +271,31 @@ export const slides = [
     items: [
       {
         name: 'Aws',
-        src: '/slider/aws.png',
+        src: '/slider/IMGaws.png',
       },
       {
         name: 'Jenkins',
-        src: '/slider/jenkins.png',
+        src: '/slider/IMGjenkins.png',
       },
       {
         name: 'Gradle',
-        src: '/slider/gradle.png',
+        src: '/slider/IMGgradle.png',
       },
       {
         name: 'Appium',
-        src: '/slider/appium.png',
+        src: '/slider/IMGappium.png',
       },
       {
         name: 'Azure',
-        src: '/slider/azure.png',
+        src: '/slider/IMGazure.png',
       },
       {
         name: 'Selenium',
-        src: '/slider/selenium.png',
+        src: '/slider/IMGselenium.png',
       },
       {
         name: 'Digital Ocean',
-        src: '/slider/digital.png',
+        src: '/slider/IMGdigital.png',
       },
     ],
   },
@@ -304,31 +304,31 @@ export const slides = [
     items: [
       {
         name: 'Illustrator',
-        src: '/slider/illustrator.png',
+        src: '/slider/IMGillustrator.png',
       },
       {
         name: 'Photoshop',
-        src: '/slider/photoshop.png',
+        src: '/slider/IMGphotoshop.png',
       },
       {
         name: 'Premiere Pro',
-        src: '/slider/premiere.png',
+        src: '/slider/IMGpremiere.png',
       },
       {
         name: 'Audition',
-        src: '/slider/audition.png',
+        src: '/slider/IMGaudition.png',
       },
       {
         name: 'After Effects',
-        src: '/slider/after.png',
+        src: '/slider/IMGafter.png',
       },
       {
         name: 'Figma',
-        src: '/slider/figma.png',
+        src: '/slider/IMGfigma.png',
       },
       {
         name: 'XD',
-        src: '/slider/xd.png',
+        src: '/slider/IMGxd.png',
       },
     ],
   },
@@ -406,17 +406,17 @@ export const portfolioData = {
     images: [
       {
         id: 0,
-        src: '/assets/portfolio/mobile-app/travel-ecommerce-app-mockup.png',
+        src: '/mockup/Mobimage (1).jpg',
         alt: 'Ecommerce Mobile App mockup',
       },
       {
         id: 1,
-        src: '/assets/portfolio/mobile-app/travel-ecommerce-app-mockup.png',
+        src: '/mockup/Mobimage(2).jpg',
         alt: 'Ecommerce Mobile App mockup',
       },
       {
         id: 2,
-        src: '/assets/portfolio/mobile-app/travel-ecommerce-app-mockup.png',
+        src: '/mockup/Mobimage(3).jpg',
         alt: 'Travel Mobile App mockup',
       },
     ],
@@ -427,12 +427,17 @@ export const portfolioData = {
     images: [
       {
         id: 3,
-        src: '/assets/portfolio/web-design/travel-website-mockup.png',
+        src: '/mockup/Webimage(1).jpg',
         alt: 'Travel Website mockup',
       },
       {
         id: 4,
-        src: '/assets/portfolio/web-design/ecommerce-website-mockup.png',
+        src: '/mockup/Webimage(2).jpg',
+        alt: 'Ecommerce Website mockup',
+      },
+      {
+        id: 20,
+        src: '/mockup/Webimage(3).jpg',
         alt: 'Ecommerce Website mockup',
       },
     ],
@@ -443,7 +448,17 @@ export const portfolioData = {
     images: [
       {
         id: 5,
-        src: '/assets/portfolio/saas/saas-dashboard-mockup.png',
+        src: '/mockup/Saasimage(1).jpg',
+        alt: 'SaaS Dashboard mockup',
+      },
+      {
+        id: 23,
+        src: '/mockup/Saasimage(2).jpg',
+        alt: 'SaaS Dashboard mockup',
+      },
+      {
+        id: 24,
+        src: '/mockup/Saasimage(3).jpg',
         alt: 'SaaS Dashboard mockup',
       },
     ],
@@ -454,7 +469,17 @@ export const portfolioData = {
     images: [
       {
         id: 6,
-        src: '/assets/portfolio/blockchain/blockchain-app-mockup.png',
+        src: '/mockup/Blockchainimage(1).jpg',
+        alt: 'Blockchain App mockup',
+      },
+      {
+        id: 26,
+        src: '/mockup/Blockchainimage(2).jpg',
+        alt: 'Blockchain App mockup',
+      },
+      {
+        id: 36,
+        src: '/mockup/Blockchainimage(3).jpg',
         alt: 'Blockchain App mockup',
       },
     ],
@@ -465,7 +490,17 @@ export const portfolioData = {
     images: [
       {
         id: 7,
-        src: '/assets/portfolio/ecommerce/ecommerce-app-mockup.png',
+        src: '/mockup/E-commerceimage(1).jpg',
+        alt: 'Ecommerce App mockup',
+      },
+      {
+        id: 47,
+        src: '/mockup/E-commerceimage(2).jpg',
+        alt: 'Ecommerce App mockup',
+      },
+      {
+        id: 57,
+        src: '/mockup/E-commerceimage(3).jpg',
         alt: 'Ecommerce App mockup',
       },
     ],
@@ -476,7 +511,17 @@ export const portfolioData = {
     images: [
       {
         id: 8,
-        src: '/assets/portfolio/graphic-design/logo-mockup.png',
+        src: '/mockup/Graphicimage(1).jpg',
+        alt: 'Logo Design mockup',
+      },
+      {
+        id: 68,
+        src: '/mockup/Graphicimage(2).jpg',
+        alt: 'Logo Design mockup',
+      },
+      {
+        id: 78,
+        src: '/mockup/Graphicimage(3).jpg',
         alt: 'Logo Design mockup',
       },
     ],
