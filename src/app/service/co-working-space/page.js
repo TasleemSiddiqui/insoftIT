@@ -11,7 +11,7 @@ const CoWorkingSpace = () => {
           </h1>
           <div class="max-w-[1050px] my-2 sm:mt-0">
             <p class=" sm:my-3.5 text-center text-[12px] sm:text-[14px] font-medium  leading-tight  sm:leading-[160%] tracking-[0.36px] md:text-[18px]">
-              Cubicus.io envisions a world where technology becomes a decisive
+              Insoft It envisions a world where technology becomes a decisive
               tool for every individual, leading to businesses thriving through
               innovation and users experiencing seamless, convenient digital
               interactions.

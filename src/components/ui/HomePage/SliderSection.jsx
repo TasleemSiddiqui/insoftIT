@@ -18,10 +18,10 @@ const SliderSection = () => {
 
   return (
     <section className="text-center md:py-[2rem]">
-      <h2 class="text-[20px] sm:text-[28px] font-semibold capitalize lg:text-[40px] md:text-[24px]">
+      <h2 className="text-[20px] sm:text-[28px] font-semibold capitalize lg:text-[40px] md:text-[24px]">
         Technologies we work with
       </h2>
-      <div className=" max-w-[1000px] mx-auto">
+      <div className="max-w-[1000px] mx-auto">
         {!domLoaded ? (
           'loading'
         ) : (
@@ -45,13 +45,14 @@ const SliderSection = () => {
                             <div className="w-[45px] sm:w-[80px] md:w-[90px] lg:w-[100px]">
                               <Image
                                 alt={item.name}
-                                loading="lazy"
                                 width={114}
                                 height={114}
                                 src={item.src}
+                                layout="intrinsic" // Ensure layout is set properly
+                                quality={100} // Increase image quality
                               />
                             </div>
-                            <p className="mt-2 text-[12px]  md:text-[14px] lg:text-[16px] hidden sm:block">
+                            <p className="mt-2 text-[12px] md:text-[14px] lg:text-[16px] hidden sm:block">
                               {item.name}
                             </p>
                           </div>
@@ -65,10 +66,11 @@ const SliderSection = () => {
                             <div className="w-[45px] sm:w-[80px] md:w-[90px] lg:w-[100px]">
                               <Image
                                 alt={item.name}
-                                loading="lazy"
                                 width={114}
                                 height={114}
                                 src={item.src}
+                                layout="intrinsic"
+                                quality={100}
                               />
                             </div>
                             <p className="mt-2 text-[12px] text-black/50 md:text-[14px] lg:text-[16px] hidden sm:block">

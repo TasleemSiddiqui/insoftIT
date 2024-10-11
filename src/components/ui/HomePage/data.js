@@ -176,7 +176,7 @@ export const slides = [
       },
       {
         name: 'Couch DB',
-        src: '/slider/IMGcoachdb.png',
+        src: '/slider/IMGcouch.avif',
       },
       {
         name: 'Mongo DB',
